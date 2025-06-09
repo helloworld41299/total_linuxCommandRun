@@ -1,0 +1,2711 @@
+    1  sudo spctl --master-disable
+    2  sudo spctl --master-disable
+    3  g++
+    4  clang --version
+    5  pwd
+    6  cd desktop
+    7  cd projects
+    8  1s
+    9  cd projects
+   10  is
+   11  cd adminpanel/
+   12   code .
+   13  main .
+   14  gcc
+   15  g++
+   16  make hello
+   17  make helloworld
+   18  make helloworld
+   19  code .
+   20  code .
+   21  mydocumentary
+   22  code.c
+   23  code .c
+   24  cd desktop
+   25  c tutoroial course
+   26  cd desktop
+   27  mydocumentary
+   28  cd desktop
+   29  code .c
+   30  /Users/purushottamkumar/Desktop/c\ tutorial\ course/mydocumentary/tempCodeRunnerFile ; exit;
+   31  /Users/purushottamkumar/Desktop/c\ tutorial\ course/mydocumentary/tempCodeRunnerFile ; exit;
+   32  /Users/purushottamkumar/Desktop/c\ tutorial\ course/mydocumentary/tempCodeRunnerFile ; exit;
+   33  /Users/purushottamkumar/Desktop/c\ tutorial\ course/mydocucumentary/hello ; exit;
+   34  /Users/purushottamkumar/Desktop/c\ tutorial\ course/UPSC ; exit;
+   35  /Users/purushottamkumar/Desktop/c\ tutorial\ course/ilu ; exit;
+   36  /Users/purushottamkumar/Desktop/c\ tutorial\ course/hello ; exit;
+   37  /Users/purushottamkumar/Desktop/c\ tutorial\ course/hello ; exit;
+   38  gcc
+   39   hd helloworld
+   40   g++
+   41  g++
+   42  g
+   43  g++
+   44  cd desktop
+   45  cd desktop/
+   46  code .
+   47  code .
+   48  clear
+   49  pwd
+   50  ls -al
+   51  clear
+   52  ls-al
+   53  clear
+   54  ls -al
+   55  clear
+   56  cat << EOF >> ~/.bash_profile\n# Add Visual Studio Code (code)\nexport PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"\nEOF
+   57  open .bash_profile
+   58  source .bash_profile
+   59  code .
+   60  cd Desktop/
+   61  ls
+   62  c tutorial course/
+   63  cd desktop
+   64  cd desktop/
+   65  cd Desktop/
+   66  clear
+   67  cd Desktop/
+   68  /Users/purushottamkumar/Desktop/l.\;lll\ \ llllllllllll\ l\ l\,l\,l\,l\,l\,lpf\,\ rlpivm\,lgpr.\ \ \ or0o4mlrlff\ \ \ eo\ m\ lkkvmr\ k0rkpdm\ fikfok/split ; exit;
+   69  /Users/purushottamkumar/Desktop/l.\;lll\ \ llllllllllll\ l\ l\,l\,l\,l\,l\,lpf\,\ rlpivm\,lgpr.\ \ \ or0o4mlrlff\ \ \ eo\ m\ lkkvmr\ k0rkpdm\ fikfok/hello ; exit;
+   70  /System/iOSSupport/usr/lib/libAXSafeCategoryBundle.dylib ; exit;
+   71  ping
+   72  ipconfig
+   73  ipconfig /all
+   74  ping
+   75  config
+   76  ip config
+   77  ipconfig
+   78  ping
+   79  ipconfig
+   80  nslookup
+   81  ping
+   82  ipconfig
+   83  nslookup
+   84  nslookup www.facebook.com
+   85  ping
+   86  ipconfig
+   87  ping www.google.com
+   88  ping
+   89  ipconfig
+   90  tracert www.google.com
+   91  ping
+   92  ping www.google.com
+   93  ipconfig
+   94  tracert www.facebook.com
+   95  tracert www.google.com
+   96  ping
+   97  /etc/paths.d/100-rvictl ; exit;
+   98  /Users/purushottamkumar/Desktop/C\ tutorial\ course/anju ; exit;
+   99  /Library/Developer/CommandLineTools/usr/bin/cmpdylib ; exit;
+  100  /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk/usr/bin/cups-config ; exit;
+  101  ping
+  102  ipconfig
+  103  ping
+  104  nslookup
+  105  ping
+  106  ipconfig
+  107  nslookup
+  108  /Users/purushottamkumar/Desktop/100\ Code\ \ preps/armstrong ; exit;
+  109  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  110  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  111  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  112  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  113  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  114  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  115  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  116  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  117  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  118  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  119  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  120  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  121  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  122  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  123  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  124  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  125  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  126  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  127  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  128  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  129  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  130  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  131  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  132  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  133  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  134  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  135  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  136  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  137  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  138  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  139  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  140  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  141  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  142  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  143  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  144  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  145  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  146  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  147  cd "/Users/purushottamkumar/Desktop/ star pattern c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/ star pattern c/"6
+  148  /Users/purushottamkumar/Desktop/star\ pattern\ c.c/6 ; exit;
+  149  cd "/Users/purushottamkumar/Desktop/star.c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/star.c/"6
+  150  cd "/Users/purushottamkumar/Desktop/star pattern c.c/" && gcc 6.c -o 6 && "/Users/purushottamkumar/Desktop/star pattern c.c/"6
+  151  brew
+  152  dir
+  153  ls
+  154  cd dowloads
+  155  cd downloads
+  156  ls
+  157  cle
+  158  clr
+  159  celar
+  160  clear
+  161  sudo installer -pkg powershell-7.2.4-osx-x64.pkg -target /
+  162  sudo installer -pkg powershell-7.2.4-osx-x64.pkg -target /
+  163  powershell
+  164  dotnet
+  165  ls
+  166  cd projects
+  167  ls
+  168  cd webapps1
+  169  ls
+  170  dotnet publish
+  171  clear
+  172  ls
+  173  ls
+  174  cd webapps1
+  175  ls
+  176  dotnet publish
+  177  ssh -i  purushottam@20.29.80.200
+  178  purushottam@20.29.80.200
+  179  ssh - purushottam@20.29.80.200
+  180  ssh root @IPaddress
+  181  ssh purushottam@20.29.80.200
+  182  ssh
+  183   purushottam@20.29.80.200\n
+  184   purushottam@20.29.80.200\n
+  185  ssh - purushottam@20.29.80.200\n
+  186  ssh
+  187   purushottam@20.29.80.200\n
+  188  brew install putty or port install putty
+  189  brew 
+  190  brew install
+  191  cal
+  192  ls
+  193  mkdir
+  194  pwd
+  195  exit
+  196  ls
+  197  pwd
+  198  cd
+  199  cd-
+  200  pwd
+  201  mkdir
+  202  cd
+  203  ls
+  204  man
+  205  help
+  206  ls
+  207  cd
+  208  pwd
+  209  java
+  210  cd-
+  211  java
+  212  mkdir
+  213   cn
+  214  aarav
+  215  ls
+  216  dir
+  217  dir
+  218   ls
+  219  ls
+  220  dir
+  221  mkdir
+  222  pwd
+  223  ls
+  224  clear
+  225  mkdir 'new folder'
+  226  ls
+  227  mkdir flder
+  228  clear
+  229  mkdir 'folder'
+  230  ls
+  231  javac --version
+  232  ls -al
+  233  echo $JAVA_HOME
+  234  cd/
+  235  cd
+  236  touch ./bash_profile 
+  237  touch ./bash_profile   
+  238  javac 16.0.1
+  239  java --version
+  240  java --version\njavac --version 
+  241  ls -al
+  242  echo $JAVA_HOME
+  243  cd
+  244  javac Helloworld.java
+  245  ls
+  246  cd
+  247  ls
+  248  ls
+  249  ls
+  250  sudo su
+  251  ls
+  252  cd
+  253  pwd
+  254  ls
+  255      cd 
+  256  pwd
+  257  cat ip.java
+  258  gyehuyv  wi09f7v  bhsywc  hue8fmiej  eo
+  259   ,po0v  
+  260  fl09r   j0rkv   
+  261  fvlpo  jbd t6tghyj r   mn3ii  vmkorm  mpoqk  p[pwe  njeiji3   bko2  jndijv  
+  262  F/fokf  jk0i3  
+  263  rk[ok r hj0wiff  moprgur kmm e  
+  264  b
+  265  robroir  
+  266  prgn mefijog  
+  267  eifjufn vmvigh  mjborn
+  268  ls -l
+  269   chmod -w ip.java
+  270  ls -l
+  271  chmod +wx ip.java
+  272  ls -l
+  273  sudo su
+  274  kill
+  275  w
+  276  whoami
+  277  whoami
+  278  ls -l
+  279  touch warload
+  280  ls -l
+  281  w
+  282  cd /etc
+  283  ls
+  284  gedit hosts
+  285    clear
+  286  ls
+  287  ls -l
+  288  ls -l ip.java
+  289  cat ip.java
+  290       ls -l
+  291  w
+  292  whoami
+  293  top
+  294  kill 86837
+  295  w
+  296  whoami
+  297  brew install gedit
+  298  brew --version
+  299  top
+  300  kill 86881
+  301  visual studio code ip.java
+  302  vscode ip.java
+  303  w
+  304  whoami
+  305  w
+  306  whoami
+  307  top
+  308  kill 87113
+  309  cat ip.java
+  310  gedit ip.java
+  311  touch corner
+  312  ls -l
+  313  service apache2 start
+  314  ifconfig
+  315  git clone https://github.com/beefproject/beef.git
+  316  ls
+  317  cd downloads
+  318  ls
+  319  ls beef
+  320  cd..
+  321  cd ...
+  322  cd..
+  323  pwd
+  324  cd home
+  325  cd ..
+  326  ls beef
+  327  cd beef
+  328  ls
+  329  ./install
+  330  ls
+  331  ./install
+  332  top
+  333  kill 92401
+  334  ls -l
+  335  /etc
+  336  sudo su
+  337  top
+  338  kill 92445
+  339  ls
+  340  cat ip.java
+  341  top
+  342  kill 5843
+  343  sudo su
+  344  gedit hello.sh
+  345  set
+  346  env
+  347  printenv
+  348  ls -l
+  349  git --version
+  350  git --version
+  351  ssh-keygen -t rsa -b 4096 -C "helloworld41299"
+  352  ls testkey
+  353  ls | grep testkey
+  354  cat testkey
+  355  cat testkey.pub
+  356  clear
+  357  vim ~/.ssh/config
+  358  open open ~/.ssh/config
+  359  touch ~/.ssh/config
+  360  open ~/.ssh/config
+  361  Host *.github.com\n  AddKeysToAgent yes\n  UseKeychain yes\n  IdentityFile ~/.ssh/id_ed25519\n
+  362  ls | grep testkey
+  363  open ~/.ssh/config
+  364  Host *.github.com\n  AddKeysToAgent yes\n  UseKeychain yes\n  IdentityFile ~/.ssh/id_ed25519\n
+  365  vim ~/.ssh/config
+  366  $ ssh-keygen -t ed25519 -C "your_email@example.com"\n
+  367  ssh-keygen -t ed25519 -C "helloworld41299"
+  368  ls -la
+  369  ls | grep 2ndKey
+  370  ls | grep testkey
+  371  ls testkey.pub
+  372  cat testkey.pub
+  373  cat 2ndKey
+  374  cat 2ndKey.pub
+  375  eval "$(ssh-agent -s)"
+  376  open ~/.ssh/config
+  377  Host *.github.com\n  AddKeysToAgent yes\n  UseKeychain yes\n  IdentityFile ~/.ssh/id_ed25519\n
+  378  nano ˜/.ssh/config
+  379  cat 2ndKey.pub
+  380  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  381  nano ~/.ssh/config
+  382  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  383  eval "$(ssh-agent -s)"
+  384  nano until.sh
+  385  eval "$(ssh-agent -s)"
+  386  nano ~/.ssh/config
+  387  $ ssh-add --apple-use-keychain ~/.ssh/id_ed25519\n
+  388  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  389  ssh-add -K ~/.ssh/id_ed25519\n
+  390  eval "$(ssh-agent -s)"
+  391  nano ~/.ssh/config
+  392  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  393  ls ~/.ssh/id_ed25519\n
+  394  ls ~/.ssh/id
+  395  ls | grep testkey
+  396  ls | grep 2ndKey
+  397  cat 2ndKey.pub
+  398  ssh-add --apple-use-keychain ~/.ssh/id_ed25519\n
+  399  eval "$(ssh-agent -s)"
+  400  open ~/.ssh/config
+  401  touch ~/.ssh/config
+  402  open ~/.ssh/config
+  403  nano ~/.ssh/config
+  404  nano~/.ssh/config
+  405  nano ~/.ssh/config
+  406  nano ˜/.ssh/config
+  407  ls | grep 2ndKey
+  408  cat 2ndKey.pub
+  409  eval "$(ssh-agent -s)"
+  410  open ~/.ssh/config
+  411  nano ~/.ssh/config
+  412  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  413  nano ~/.ssh/config
+  414  ssh -T git@github.com
+  415  eval "$(ssh-agent -s)"
+  416  ˜/.ssh/config
+  417  touch ˜/.ssh/config
+  418  touch ~/.ssh/config
+  419  vim ~/.ssh/config
+  420   "vim -r /Users/purushottamkumar/.ssh/\nconfig"\n
+  421  vim ~/.ssh/config
+  422  ls | grep 2ndKey
+  423  eval "$(ssh-agent -s)"
+  424  nano ~/.ssh/config
+  425  nano ~/.ssh/config
+  426  vim ~/.ssh/config
+  427  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  428  ssh-add ~/.ssh/id_ed25519
+  429  ls | grep 2ndKey
+  430  cat 2ndKey.pub
+  431  nano ~/.ssh/config
+  432  nano ~/.ssh/config
+  433   nano ~/.ssh/config
+  434  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  435  clear
+  436  grep | 2ndKey
+  437  ls | grep 2ndKey
+  438  cat 2ndKey
+  439  cat 2ndKey.pub
+  440  eval "$(ssh-agent -s)"
+  441  nano ~/.ssh/config
+  442  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  443  ssh-add --apple-use-keychain ~/.ssh/2ndKey
+  444  ssh-add --apple-use-keychain ~/.ssh-ed25519
+  445  nano~/.ssh/config
+  446  nano ~/.ssh/config
+  447  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  448  nano ~/.ssh/config
+  449  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  450  ls | grep 2ndKey
+  451  cat 2ndKey
+  452  cat 2ndKey.pub
+  453  eval "$(ssh-agent -s)"
+  454  touch ~/.ssh/config
+  455  vim ~/.ssh/config
+  456  vim ~/.ssh/config
+  457  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  458  ssh-add ~/.ssh/id_ed25519
+  459  vim ~/.ssh/config
+  460  :recover ~/.ssh/config  
+  461  ":recover"~/.ssh/config   
+  462  vim -r ~/.ssh/config
+  463  nano ~/.ssh/config
+  464  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  465  vim ~/.ssh/config
+  466  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  467  vim ~/.ssh/id_ed25519
+  468  vim ~/.ssh/config
+  469  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  470  ls | grep 2ndKey
+  471  cat 2ndKey
+  472  mate README.md
+  473  ls
+  474  top
+  475  top
+  476  top
+  477  ls
+  478  ls ip.config
+  479  top
+  480  mkdir artop
+  481  cd
+  482  rem artop
+  483      ju8wen  jwiu980w   sf65qe   lfoe  ejk98r
+  484  command not found
+  485  /Users/purushottamkumar/beef/tools/rest_api_examples/dns ; exit;
+  486  xcode-select -install
+  487  xcode-select --install
+  488    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Hom...)"
+  489  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  490  https://raw.githubusercontent.com/Homebrew/install/master/install
+  491  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  492  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  493    (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/purushottamkumar/.zprofile\n    eval "$(/usr/local/bin/brew shellenv)"
+  494  brew help
+  495  (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/purushottamkumar/.zprofile
+  496   eval "$(/usr/local/bin/brew shellenv)"
+  497  brew help
+  498  https://docs.brew.sh
+  499   brew install openssl
+  500  echo 'export PATH="/usr/local/opt/openssl@3/bin:$PATH"' >> ~/.zshrc\n\n
+  501   brew install --cask powershell
+  502  pwsh
+  503  pwsh
+  504  ipconfiig
+  505  pwsh
+  506  PS> ./open-google-searchPS> ./open-google-search1
+  507  11qqexit1
+  508  cd ..
+  509  try {\n\tsfc /verifyOnly\n\tif ($lastExitCode -ne "0") { throw "'sfc /verifyOnly' failed" }\n\n\t"✔️ checked Windows system files"\n\texit 0 # success\n} catch {\n\t"⚠️ Error in line $($_.InvocationInfo.ScriptLineNumber): $($Error[0])"\n\texit 1\n}\n
+  510  \n[System.Console]::Beep(1059.274, 300)\n[System.Console]::Beep(1059.274, 200)\n[System.Console]::Beep(1188.995, 500)\n[System.Console]::Beep(1059.274, 500)\n[System.Console]::Beep(1413.961, 500)\n[System.Console]::Beep(1334.601, 950)\n[System.Console]::Beep(1059.274, 300)\n[System.Console]::Beep(1059.274, 200)\n[System.Console]::Beep(1188.995, 500)\n[System.Console]::Beep(1059.274, 500)\n[System.Console]::Beep(1587.117, 500)\n[System.Console]::Beep(1413.961, 950)\n[System.Console]::Beep(1059.274, 300)\n[System.Console]::Beep(1059.274, 200)\n[System.Console]::Beep(2118.547, 500)\n[System.Console]::Beep(1781.479, 500)\n[System.Console]::Beep(1413.961, 500)\n[System.Console]::Beep(1334.601, 500)\n[System.Console]::Beep(1188.995, 500)\n[System.Console]::Beep(1887.411, 300)\n[System.Console]::Beep(1887.411, 200)\n[System.Console]::Beep(1781.479, 500)\n[System.Console]::Beep(1413.961, 500)\n[System.Console]::Beep(1587.117, 500)\n[System.Console]::Beep(1413.961, 900)\nexit 0 # success\n
+  511  help loops -online
+  512  get-help loops -online
+  513  ls
+  514  pwsh
+  515  pwsh
+  516  ls
+  517  pwsh
+  518  ls
+  519  top
+  520  ls
+  521  ls
+  522  ls
+  523  exit
+  524  git version
+  525  git version
+  526  ls
+  527  ubntu
+  528  ls
+  529  ls
+  530  ls
+  531  jwhjh
+  532  dcmj
+  533  git clone https://21588580475@dev.azure.com/21588580475/TheMcguffin/_git/flatris.git
+  534  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  535  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  536  git status
+  537  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  538  git status
+  539  install git LFS
+  540  git lfs install
+  541  git lfs fetch source --all
+  542  git lfs fetch flatris_likeaboss --all
+  543  git log fetch flatris_likeaboss --all
+  544  git lfs fetch flatris_likeaboss --all
+  545  create branch
+  546  git create branch
+  547  /usr/bin/git -C "/Users/purushottamkumar" -c "core.editor=code --wait --reuse-window" branch flatris/arav/change1 master
+  548  git branch -d old-branch
+  549  git branch --delete old-branch
+  550  git --delete flatris/arav/change1
+  551  git branch -d old-branch
+  552  git rm --cached .Trash/Linux-Bash-Commands
+  553  /usr/bin/git -C "/Users/purushottamkumar" -c "core.editor=code --wait --reuse-window" branch flatris/change1 flatris/arav/change1
+  554  git --help
+  555  pwd
+  556  git checkout master
+  557  git show origin
+  558  git init
+  559  cat .git
+  560  cd .git
+  561  ls
+  562  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  563  ls
+  564  rm -rf flatris_likeaboss
+  565  git status
+  566  mkdir flatris_likeabos
+  567  cd flatris_likeabos
+  568  git add flatris_likeabos 
+  569  git branch
+  570  cd ..
+  571  git branch
+  572  cd ..
+  573  git branch
+  574  git init matser
+  575  git branch
+  576  git reset
+  577  mkdir flatris_likeabos
+  578  ls
+  579  cd  flatris_likeabos
+  580  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  581  git status
+  582  git reset
+  583  git pull  https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  584  ls
+  585  cd flatris_likeaboss
+  586  ls
+  587  pwdf
+  588  pwd
+  589  ls
+  590  cd ..
+  591  ls
+  592  git add flatris_likeaboss
+  593  git satus
+  594  git status
+  595  git commit -m 'First' flatris_likeaboss
+  596  git status
+  597  git log
+  598  git commit -m 'F' -a flatris_likeaboss
+  599  git commit -m 'Second'  flatris_likeaboss
+  600  ls
+  601  cd flatris_likeaboss
+  602  ls
+  603  git commit -m "Final" * 
+  604  git status
+  605  git add *
+  606  git commit -m "Final123" * 
+  607  ls
+  608  ll
+  609  ls
+  610  git branch
+  611  git checkout master
+  612  git branch
+  613  ls
+  614  ls
+  615  git add web
+  616  git add scripts
+  617  git add s*
+  618  git commit -m "Final12345" * 
+  619  ls web
+  620  git commit -m "Final12345" * 
+  621  cd ..
+  622  ls
+  623  git clone https://github.com/trinib/Linux-Bash-Commands.git
+  624  ls
+  625  pwd
+  626  ls
+  627  cd flatris
+  628  ls
+  629   GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/helloworld41299/flatris.git
+  630  mv flatris flatriss
+  631  ls
+  632   GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/helloworld41299/flatris.git
+  633  git init
+  634  git init main
+  635  git init master
+  636  git branch 
+  637  git branch flatris1
+  638  git commit -m "abc" *
+  639  git clone https://github.com/skidding/flatris.git
+  640  git lfs
+  641  git lfs install
+  642  pwd
+  643  mkdir flatris_game
+  644  cd flatris_game
+  645  ls
+  646  pwd
+  647  cd ..
+  648  $ brew install git-gui
+  649   brew install git-gui
+  650  git lfs install
+  651  git lfs
+  652  git install lfd
+  653  git install lfs
+  654  brew install git-lfs
+  655  git lfs install
+  656  git clone https://github.com/skidding/flatris.git
+  657  git branch
+  658  git branch flatris/change1
+  659  init
+  660  git init
+  661  git branch
+  662  git checkout
+  663  git init main
+  664  cd main
+  665  git branch
+  666  git branch flatris/change1
+  667  cd ..
+  668  cd flatris_game
+  669  pwd
+  670  git commit -m " update " *
+  671  mkdir flatrisgame
+  672  cd flatrisgame
+  673  ls flatrisgame
+  674  pwd
+  675  git clone https://github.com/skidding/flatris.git
+  676  git branch
+  677  history
+  678  cd flatris_game
+  679  ls
+  680  ls
+  681  ls flatris
+  682  rm -rf flatris/*
+  683  rm -rf flatris
+  684  cd ..
+  685  pwd
+  686  cd purushottamkumar@PURUSHOTTAMs-MacBook-Air
+  687  cd ..
+  688  cd flatrisgame
+  689  mkdir flatrisgame
+  690  cd flatrisgame
+  691  cd ..
+  692  cd ..
+  693  cd ..
+  694  pwd
+  695  git
+  696  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  697  cd flatris_game
+  698  ls
+  699  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  700  git init 
+  701  ls
+  702  git clone https://impks41299@dev.azure.com/impks41299/mcguffin/_git/flatris_likeaboss
+  703  git init
+  704  ls flatris_game
+  705  /usr/local/microsoft/powershell/7/pwsh ; exit;
+  706  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  707  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  708  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  709  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  710  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  711  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  712  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  713  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  714  which python3
+  715  which python
+  716  echo $PATH
+  717  pwd
+  718  ls
+  719  pwd
+  720  export PATH=$PATH:/Users/purushottamkumar/Desktop/hrpython
+  721  pwd
+  722  source ~/.zshrc
+  723  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  724  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  725  which python
+  726  which python3
+  727  echo $PATH
+  728  export PATH=$PATH:/usr/local/sbin:/Users/purushottamkumar/Desktop/hrpython\n
+  729  source ~/.zshrc
+  730  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  731  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  732  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  733  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  734  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  735  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  736  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  737  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  738  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  739  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  740  python -u "/Users/purushottamkumar/Desktop/hrpython/ifelse.py"
+  741  which python
+  742  which python3
+  743  echo $PATH
+  744  ~/.zshrc
+  745  sudo nano ~/.zshrc
+  746  chmod 644 ~/.zshrc
+  747  source ~/.zshrc
+  748  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  749  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  750  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  751  code ~
+  752  which python
+  753  python 3 HRPYTHON
+  754  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  755  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  756  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  757  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  758  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  759  which python
+  760  python3 leapyear.py
+  761  sudo xcodebuild -license
+  762  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  763  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  764  pyuthon3 leapyear.py
+  765  which python
+  766  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  767  python3 --version
+  768  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  769  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  770  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  771  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  772  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  773  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  774  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  775  python -u "/Users/purushottamkumar/Desktop/hrpython/leapyear.py"
+  776  $ brew install git
+  777  $ brew install git
+  778   brew install git
+  779  $ sudo port install git
+  780  $ brew install git-gui\n\n
+  781   brew install git-gui\n\n
+  782  git-gui version
+  783  cd git-gui
+  784  mkdir myWebApp
+  785  cd myWebApp
+  786  git init
+  787  \ngit config --global user.name “helloworld41299”\ngit config --global user.email "purushottamsahu41299@gmail.com"\n
+  788  git config --global http.proxy\nhttp://proxyUsername:proxyPassword@proxy.server.com:port
+  789  git config --global http.proxy\nhttp://proxy Username:proxy Password@https://github.com/helloworld41299/purushottamkumar:8080
+  790  git config --global http.proxy\nhttp://proxyUsername:proxyPassword@proxy.server.com:port
+  791  git config --global http.proxy\nhttp://proxyhelloworld41299:proxySapk1234*@proxy.server.com:port
+  792  git config --global http.proxy\nhttp://proxy helloworld41299:proxy Sapk1234*@proxy.server.com:port
+  793  git config --global http.proxy\nhttp://proxy helloworld41299:proxy Sapk1234*@https://github.com/helloworld41299/purushottamkumar:port
+  794  git config --global http.proxy\nhttp://proxy helloworld41299:proxy Sapk1234*@https://github.com/helloworld41299/purushottamkumar:8080
+  795  git config --global http.proxy\nhttp://proxyhelloworld41299:Sapk1234*@https://github.com/helloworld41299/purushottamkumar:8080\n
+  796  \ngit config --global http.proxy\nhttp://proxy helloworld41299:Sapk1234*@https://github.com/helloworld41299/purushottamkumar:8080\n
+  797  git config --global http.proxy\nhttp://proxy helloworld41299: Sapk1234*@https://github.com/helloworld41299/purushottamkumar:8080\n
+  798  git config --global http.proxy\nhttp://proxy helloworld41299: Sapk1234*@https://github.com/helloworld41299/purushottamkumar:8080
+  799  git config --global http.proxy\nhttp://proxyhelloworld41299:proxySapk1234*@proxy.server.com:port
+  800  git config --global http.proxy\nhttp://proxyhelloworld41299:proxySapk1234*@https://github.com/helloworld41299/purushottamkumar:8080\n
+  801  git config --global http.proxy\nhttp://proxyhelloworld41299:proxySapk1234*@https://github.com/helloworld41299/purushottamkumar:port
+  802  git config --global http.proxy\nhttp://proxyhelloworld41299:proxySapk1234*@https://github.com/helloworld41299/purushottamkumar:port
+  803  dotnet new mvc
+  804  code .
+  805  pwd
+  806  code .
+  807  pwd
+  808  \ngit config --global http.proxy http://helloworld41299:Sapk1234*@your-proxy-url:port\ngit config --global https.proxy https://helloworld41299:Sapk1234*@your-proxy-url:port\n
+  809  code .
+  810  code ~
+  811  code ~
+  812  export PATH=$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin
+  813  code purushottamkumar@PURUSHOTTAMs-MacBook-Air myWebApp\n
+  814  .
+  815  ..
+  816  cd home
+  817  cd purushottamkumar@PURUSHOTTAMs-MacBook-Air
+  818  cd
+  819  purushottamkumar@PURUSHOTTAMs-MacBook-Ai
+  820  ~/.bashrc
+  821  ~/.zshrc
+  822  sudo
+  823  sudo ~/.zshrc
+  824  cd myWebapp
+  825  pwd
+  826  code .
+  827  ~/.zshrc
+  828  sudo ~/.zshrc
+  829  ~/.bashrc
+  830  sudo ~/.bashrc
+  831  ~/.bashrc
+  832  nano /Users/purushottamkumar/.bashrc
+  833  /Users/purushottamkumar/.zshrc
+  834  sudo code .
+  835  python --version
+  836  cd
+  837  python --version
+  838  python -u "/Users/purushottamkumar/Desktop/coding/hrpython/hello.py"
+  839  python -u "/Users/purushottamkumar/Desktop/coding/hrpython/hello.py"
+  840  which python
+  841  brew install python
+  842  brew update && brew upgrade && brew cleanup
+  843  xcode-select --install
+  844  brew install python
+  845  python --version
+  846  python -u "/Users/purushottamkumar/Desktop/coding/hrpython/hello.py"
+  847  python -u "/Users/purushottamkumar/Desktop/coding/hrpython/hello.py"
+  848  python -u "/Users/purushottamkumar/Desktop/coding/hrpython/hello.py"
+  849  nano .zshrc
+  850  python --version
+  851  git --version
+  852  python --version
+  853  git --version
+  854  source /usr/local/opt/python@3.12/bin/activate 
+  855  git --latest
+  856  brew upgrade git
+  857  brew install python
+  858  python --version
+  859  brew list python
+  860  brew info <python_name>
+  861  brew info <python@3.12/3.12.4
+  862  brew info python@3.12/3.12.4
+  863  brew info python@3.12
+  864  export PATH="/usr/local/opt/python@3.12/libexec/bin:$PATH"
+  865  python --version
+  866  python -u "/Users/purushottamkumar/Desktop/coding/hrpython/hello.py"
+  867  python --version
+  868  cd myWebapp
+  869  pwd
+  870  code .
+  871  dotnet build\ndotnet run
+  872  cd myWebapp
+  873  code .
+  874  cd myWebApp
+  875  code .
+  876  dotnet dev-certs https
+  877  dotnet dev-certs https --trust
+  878  dotnet dev-certs https --trust
+  879  dotnet build\ndotnet run
+  880  http://localhost:5120
+  881  git branch --list
+  882  git branch feature-devops-home-page\ngit checkout feature-devops-home-page\ngit branch --list
+  883  git add .\ngit commit -m "Initial commit"
+  884  git branch feature-devops-home-page\ngit checkout feature-devops-home-page\ngit branch --list
+  885  git status\ngit add .\ngit commit -m "updated welcome page."\ngit status
+  886  git checkout main\ngit merge feature-devops-home-page
+  887  git checkout master\ngit merge feature-devops-home-page
+  888  git branch --delete feature-devops-home-page
+  889  git log -v
+  890  git log -p
+  891  cd desktop
+  892  ls
+  893  which shell
+  894  ls
+  895  brew tap homebrew/cask-fonts && brew install --cask font-source-code-pro
+  896  ls
+  897  ls
+  898  ls
+  899  ls
+  900  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  901  cd ..
+  902  cd
+  903  cd ..
+  904  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+  905  nano .zshrc
+  906  ls
+  907  cd .
+  908  cd ..
+  909  cd
+  910  git
+  911  bash
+  912  /Users/purushottamkumar
+  913  nano .zshrc
+  914  
+  915  /Users/purushottamkumar
+  916  ls
+  917  cd desktop
+  918  /Users/purushottamkumar
+  919  ls
+  920  cd desktop
+  921  PURUSHOTTAMs-MacBook-Air:~ purushottamkumar$ 
+  922  echo ""ji
+  923  pwd
+  924  ls
+  925  cd desktop
+  926  cd kkdProjects
+  927  cd 
+  928  pwd
+  929  cd ..
+  930  pwd
+  931  cd
+  932  pwd
+  933  git log
+  934  pwd
+  935  cd desktop
+  936  git log
+  937  cd kkdProjects
+  938  git log
+  939  pwd
+  940  cd ..
+  941  pwd
+  942  mkdir linux_tutorial
+  943  cd linux_tutorial
+  944  pwd
+  945  mkdir folder
+  946  cd 
+  947  rm ~/Library/Preferences/com.googlecode.iterm2.plist
+  948  oh my zsh
+  949  pwd
+  950  ls
+  951  pwd
+  952  cd desktop
+  953  ls
+  954  cd linux_tutorial
+  955  pwd
+  956  docker run -it ubuntu
+  957  ;lkjha t5rd  
+  958  where python
+  959  git
+  960  ls
+  961  cd desktop
+  962  cd kkdProjects
+  963  git init
+  964  ls
+  965  cd desktop
+  966  ls
+  967  kkd_projects
+  968  cd desktop
+  969  cd kkd_projects
+  970  git init
+  971  cd ..
+  972  cd desktop
+  973  ls -a
+  974  cd kkd_projects
+  975  ls -a
+  976  cd ..
+  977  rm -rf .git
+  978  ls -a
+  979  cd kkd_projects
+  980  cd 
+  981  pwd
+  982  cd desktop
+  983  cd linux_tutorial
+  984  pwd
+  985  cd desktop
+  986  cd ..
+  987  git clone https://github.com/helloworld41299/commclassroomOP.git
+  988  cd commclassroomOP\n
+  989  cat README.md
+  990  git remote add upstream https://github.com/commclassroom/commclassroomOP.git
+  991  git remote v
+  992  git remote -v
+  993  vi README.md
+  994  git status
+  995  git add .
+  996  git restore --staged README.md
+  997  git status
+  998  git branch aarav
+  999  git checkout aarav
+ 1000  git add .
+ 1001  git commit -m "aarav aaded a msg."
+ 1002  git push origin aarav
+ 1003  git remote add origin https://github.com/helloworld41299/commclassroomOP\?tab\=readme-ov-file\#commclassroomop
+ 1004  git log
+ 1005  git reset c3164c5542fc3e77e5861eff83938032d5b35f3a 
+ 1006  git log
+ 1007  git status
+ 1008  git add .
+ 1009  git status
+ 1010  git commit -m "aarav added a message in README.md"
+ 1011  git status
+ 1012  git push origin aarav
+ 1013  git pull origin aarav
+ 1014  git pull upstream main
+ 1015  git pull --no-rebase origin aarav\n
+ 1016  git config pull.rebase false\n
+ 1017  git config --global pull.rebase false\n
+ 1018  git pull --rebase origin aarav\n
+ 1019  git config pull.rebase true\n
+ 1020  git config --global pull.rebase true\n
+ 1021  git pull --ff-only origin aarav\n
+ 1022  git config pull.ff only\n
+ 1023  git config --global pull.ff only\n
+ 1024  git pull --no-rebase origin aarav\n
+ 1025  git push origin aarav
+ 1026  git pull --rebase origin aarav\n
+ 1027  git push origin aarav\n
+ 1028  git pull --rebase origin aarav\n
+ 1029  git rebase --continue\n
+ 1030  git log
+ 1031  git push origin aarav\n
+ 1032  git status\n
+ 1033  git log --oneline --graph --decorate --all\n
+ 1034  git checkout aarav\ngit merge main\n
+ 1035  git checkout -b new-branch-name\n
+ 1036  cd ..
+ 1037  cd linux_tutorial
+ 1038  docker run -it ubuntu
+ 1039  python3
+ 1040  where python3
+ 1041  /usr/bin/python3
+ 1042  where python3
+ 1043  open
+ 1044  open /usr/local/bin/python3
+ 1045  open /usr/local/bin
+ 1046  where git
+ 1047  open /usr/bin
+ 1048  /usr/bin/git ; exit;
+ 1049  echo$PATH
+ 1050  echo $PATH
+ 1051  where powershell
+ 1052  where git
+ 1053  where python3
+ 1054  echo $PATH
+ 1055  where git
+ 1056  open /usr/bin
+ 1057  echo $PATH
+ 1058  where bash
+ 1059  echo $PATH
+ 1060  ls -a
+ 1061  cat .zshrc.pre-oh-my-zsh  
+ 1062  cat .zshrc
+ 1063  vi .zshrc
+ 1064  .zshrc
+ 1065  cd
+ 1066  cd ..
+ 1067  .zshrc
+ 1068  cd
+ 1069  .zshrc
+ 1070  pwd
+ 1071  cd desktop
+ 1072  where .zshrc
+ 1073  cat .zshrc
+ 1074  vi .zshrc
+ 1075  cd 
+ 1076  cd ..
+ 1077  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+ 1078  .zshrc
+ 1079  vi .zshrc
+ 1080  cd 
+ 1081  cd ..
+ 1082  purushottamkumar@PURUSHOTTAMs-Macbook-Air
+ 1083  cd ..
+ 1084  cd
+ 1085  cd desktop
+ 1086  rm -rf flatris/changed1
+ 1087  cat flatris
+ 1088  purushottamkumar@PURUSHOTTAMs-Macbook-Air
+ 1089  ls
+ 1090  cd
+ 1091  cd .
+ 1092  cd ..
+ 1093  cd
+ 1094  purushottamkumar@PURUSHOTTAMs-Macbook-Air
+ 1095  cd ..
+ 1096  ls -a
+ 1097  cd
+ 1098  ls -a
+ 1099  cat .zshrc
+ 1100  vi .zshrc
+ 1101  vim -r .zshrc
+ 1102  pwd
+ 1103  cd desktop
+ 1104  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n
+ 1105  ZSH= sh install.sh
+ 1106  purushottamkumar@PURUSHOTTAMs-Macbook-Air
+ 1107  pwd
+ 1108  cd desktop
+ 1109  cd ..
+ 1110  cd
+ 1111  pwd
+ 1112  cd desktop
+ 1113  pwd
+ 1114  purushottamkumar@PURUSHOTTAMs-Macbook-Air
+ 1115  ugg
+ 1116  bjh
+ 1117  bhgu
+ 1118  where python
+ 1119  pwd
+ 1120  cd desktop
+ 1121  cd linux_projects
+ 1122  cd linux_tutorial
+ 1123  pwd
+ 1124  git
+ 1125  where git
+ 1126  where python
+ 1127  python
+ 1128  which python
+ 1129  where bash
+ 1130  open /bin/bash
+ 1131  /bin/bash ; exit;
+ 1132  python3
+ 1133  purushottamkumar@PURUSHOTTAMs-Macbook-Air
+ 1134  python3
+ 1135  cd desktop
+ 1136  cd linux_tutorial
+ 1137  pwd
+ 1138  python 3
+ 1139  python3
+ 1140  where python3
+ 1141  /usr/local/bin
+ 1142  which python3
+ 1143  open /usr/local/bin
+ 1144  ls
+ 1145  cd 
+ 1146  ls
+ 1147  open .
+ 1148  cd downloads
+ 1149  mkdir folder
+ 1150  ls
+ 1151  python3
+ 1152  where python3
+ 1153  /usr/bin/python3\n
+ 1154  cd desktop
+ 1155  cd linux_tutorial
+ 1156  export my_path = "aarav"
+ 1157  export MY_PATH= "aarav"
+ 1158  echo MY_PATH
+ 1159  echo $MY_PATH
+ 1160  export MY_PATH= "aarav"
+ 1161  echo $MY_PATH
+ 1162  ls
+ 1163  pwd
+ 1164  ls
+ 1165  ls-a
+ 1166  ls -a
+ 1167  ls -l
+ 1168  ls -al
+ 1169  open .
+ 1170  cd .
+ 1171  cd ..
+ 1172  cd downloads
+ 1173  cd
+ 1174  cd downloads
+ 1175  open .
+ 1176  cd ../Pictures
+ 1177  open .
+ 1178  ls -l
+ 1179  ls -R
+ 1180  cd ..
+ 1181  cd desktop
+ 1182  cd linux_tutorial
+ 1183  cat > file.txt
+ 1184  cat file.txt
+ 1185  cat > two.txt
+ 1186  cat file.txt two.txt > total.txt
+ 1187  cat total.txt
+ 1188  echo "hello" > file.txt
+ 1189  cat two.txt
+ 1190  cat > two.txt
+ 1191  cat total.txt
+ 1192  cat file.txt
+ 1193  cat > file.txt
+ 1194  cat file.txt two.txt > total.txt
+ 1195  cat total.txt
+ 1196  echo "hello" > file.txt
+ 1197  man echo
+ 1198  cat file.txt
+ 1199  cat file.txt | tr a-z A-Z > upper.txt
+ 1200  cat upper.txt
+ 1201  cat file.txt \\nhii hero
+ 1202  pwd
+ 1203  cd desktop
+ 1204  ls
+ 1205  cd linux_tutorial
+ 1206  pwd
+ 1207  man echo
+ 1208  cat file.txt
+ 1209  man tr
+ 1210  cat file.txt | tr a-z A-Z
+ 1211  cat upper.txt
+ 1212  cat file.txt \\nhow u doing, all good.
+ 1213  mkdir test
+ 1214  mkdir random/hello
+ 1215  mkdir random
+ 1216  mkdir random/hello
+ 1217  mkdir -p random/middle/hello
+ 1218  touch names.txt
+ 1219  touch test/houses.txt
+ 1220  open .
+ 1221  cp file.txt copy_file.txtt
+ 1222  echo hello/hiii > file.txt
+ 1223  cat file.txt
+ 1224  cat copy_file.txt
+ 1225  cp file.txt copy_file.txt
+ 1226  cat copy_file.txt
+ 1227  man mv
+ 1228  python3
+ 1229  where python3
+ 1230  open
+ 1231  open /usr/local/bin/python3
+ 1232  where python3
+ 1233  open /usr/local/bin/python3
+ 1234  cat /etc/zshrc
+ 1235  open .
+ 1236  open ..
+ 1237  ls -r
+ 1238  ls -R
+ 1239  ls -l
+ 1240  ls -lrt
+ 1241  rm -r random
+ 1242  mkdir -p random/middle/hello
+ 1243  random/hello
+ 1244  mkdir random/hello
+ 1245  random/hello
+ 1246  pwd
+ 1247  cd ..
+ 1248  cd
+ 1249  cd desktop
+ 1250  cd linux_tutorial
+ 1251  mkdir random/hello
+ 1252  mkdir random
+ 1253  mkdir random/hello
+ 1254  mkdir -p  random/middle/hello
+ 1255  cp two.txt copy_two.txt
+ 1256  cp file.txt names.txt
+ 1257  mv names.txt random
+ 1258  mv file.txt newName.txt
+ 1259  cd random
+ 1260  open .
+ 1261  cat > newName.txt
+ 1262  cat newName.txt \\nGood
+ 1263  cd ..
+ 1264  cat newName.txt \\nGood
+ 1265  cat newName.txt\\ngood
+ 1266  cat newName.txt\ 
+ 1267  cat > newName.txt \\ngood
+ 1268  cat > newName.txt \\ngood  
+ 1269  vi newName.txt
+ 1270  cd random
+ 1271  cat names.txt
+ 1272  echo i am in names.txt > names.txt
+ 1273  cat  names.txt
+ 1274  cat names.txt \\nyes
+ 1275  cat names.txt \\nyes   
+ 1276  mv names.txt ../newNames.txt
+ 1277  cd ..
+ 1278  rm -r newName.txt
+ 1279  cd random
+ 1280  open .
+ 1281  open newNames.txt
+ 1282  cat newNames.txt
+ 1283  mv newNames.txt ../names.txt
+ 1284  cd ..
+ 1285  ls
+ 1286  rm copy_file.txt
+ 1287  man cp
+ 1288  cp -R test random
+ 1289  mv test renamedTest 
+ 1290  mv renamedTest random
+ 1291  mv random/renamedTest .
+ 1292  cat renamedTest
+ 1293  ls renamedTest
+ 1294  ls houses.txt
+ 1295  dir renamedTest
+ 1296  open renamedTest
+ 1297  open houses.txt
+ 1298  cd re
+ 1299  cd renamedTest
+ 1300  open houses.txt
+ 1301  rm -R renamedTest.txt
+ 1302  rm -rf renamedTest
+ 1303  cd ..
+ 1304  rm -r renamedTest
+ 1305  touch ok.txt
+ 1306  vi ok.txt
+ 1307  mv names.txt ok.txt
+ 1308  touch ok.txt
+ 1309  mv ok.txt names.txt
+ 1310  mv test renamedTest
+ 1311  mv renamedTest movefolder
+ 1312  mv renamedTest random
+ 1313  cd movefolder
+ 1314  mv renamedTest random
+ 1315  mv random renamedTest
+ 1316  mv renamedTest ../random
+ 1317  mv random/renamedTest .
+ 1318  mv random/renamedTest cd ..
+ 1319  cd ..
+ 1320  mv random/renamedTest .
+ 1321  rm -r renamedTest
+ 1322  man sudo
+ 1323  sudo echo hello world
+ 1324  sudo vi add.txt
+ 1325  rm add.txt
+ 1326  cd desktop
+ 1327  cd linux_tutorial
+ 1328  ls
+ 1329  man sudo
+ 1330  sudo echo hello World
+ 1331  df
+ 1332  df -m
+ 1333  man df
+ 1334  df -h
+ 1335  df -hg
+ 1336  man du
+ 1337  du
+ 1338  du-h
+ 1339  du -h
+ 1340  vi totsl.txt
+ 1341  rm -rf totsl.txt
+ 1342  vi total.txt
+ 1343  diff total.txt two.txt
+ 1344  vi two.txt
+ 1345  diff total.txt two.txt
+ 1346  head ttotal.txt
+ 1347  head total.txt
+ 1348  head -n4 total.txt
+ 1349  tail -n 2 total.txt
+ 1350  tail total.txt
+ 1351  tail -n 5 total.txt
+ 1352  man diff
+ 1353  locate"*.txt"
+ 1354  locate "*.txt"
+ 1355  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist\n\n
+ 1356  locate "*.txt"
+ 1357  man find
+ 1358  find .
+ 1359  find ..
+ 1360  find random
+ 1361  find middle
+ 1362  find . -type d
+ 1363  find . -type f
+ 1364  find . -type f-name "*two"
+ 1365  find . -type f-name "two*"
+ 1366  find . -type f-name "two.txt"
+ 1367  find . -type f -name "two.txt"
+ 1368  find . -type f -name "two*"
+ 1369  find . -type f -name "two.txt"
+ 1370  find . -type f -name "*.txt"
+ 1371  find . -type f -name ".txt*"
+ 1372  find . -type f -name "two*"
+ 1373  find . -type f -name ".txt*"
+ 1374  find . -type f -name "*.txt"
+ 1375  ls
+ 1376  cd desktop
+ 1377  cd linux_tutorial
+ 1378  open .
+ 1379  locate "*"
+ 1380  clear
+ 1381  locate "*.txt"
+ 1382  locate pack/dist/opt/editorconfig/doc/editorconfig.txt
+ 1383  man find
+ 1384  find ..
+ 1385  find .
+ 1386  find . -type d
+ 1387  find . -type -f
+ 1388  find . -type f
+ 1389  find . -type f -name "*two"
+ 1390  find . -type f -name "two*"
+ 1391  find . -type f -name "*txt"
+ 1392  pwd
+ 1393  cd ../Mydocs
+ 1394  pwd
+ 1395  ls 
+ 1396  cat v
+ 1397  cat resume_Naukri.pdf
+ 1398  cd ..
+ 1399  ls
+ 1400  cd ../Downloads
+ 1401  pwd
+ 1402  ls
+ 1403  grep aaravkey
+ 1404  cat aaravkey
+ 1405  vi aaravkey
+ 1406  cd ../Mydocs
+ 1407  cd ..
+ 1408  pwd
+ 1409  cd desktop/Mydocs
+ 1410  ls-lrt
+ 1411  ls
+ 1412  grep aaravkey
+ 1413  cat aaravkey
+ 1414  cat aaravkey_aws.pem
+ 1415  powershell
+ 1416  which powershell
+ 1417  powershell version
+ 1418  where powershell
+ 1419  which git
+ 1420  where git
+ 1421  git --version
+ 1422  which powershell
+ 1423  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1424  which powershell
+ 1425  powershell -version
+ 1426  powershell --version
+ 1427  brew tap powershell/tap
+ 1428  brew install powershell
+ 1429  which powershell
+ 1430  powershell -version
+ 1431  which powershell
+ 1432  which shell
+ 1433  bash
+ 1434  which shell
+ 1435  source ~/.zshrc
+ 1436  powershell
+ 1437  powershell -version
+ 1438  echo $PATH
+ 1439  ;pwsh
+ 1440  crc version
+ 1441  crc help
+ 1442  crc setup
+ 1443  pwd
+ 1444  cd desktop/linux_tutorial
+ 1445  pwd
+ 1446  find .
+ 1447  find ..
+ 1448  find random
+ 1449  find . -type D
+ 1450  find . -type d
+ 1451  find . -type f
+ 1452  find . -type f "*two.txt"
+ 1453  find . -type f -name  "*two.txt"
+ 1454  find . -type f -name  "two.txt"
+ 1455  find . -type f -name "*.txt"
+ 1456  touch random/somefile.txt
+ 1457  find . -type f -name "*.txt"
+ 1458  touch random/1.txt 2.txt 3.txt
+ 1459  touch random/(1.txt 2.txt 3.txt)
+ 1460  touch random/{1.txt 2.txt 3.txt}
+ 1461  touch random/1.txt random/2.txt random/3.txt
+ 1462  ls
+ 1463  random ls
+ 1464  ls random
+ 1465  ls -ltr random
+ 1466  find . -type f -mmin -15
+ 1467  find . -type -f -mmin +15
+ 1468  find . -type -f -mmin +5
+ 1469  find . -type -f mmin +15
+ 1470  find . -type -f mmin +1
+ 1471  find . -type -f mmin -10
+ 1472  find . -type -f mmin -15
+ 1473  find . -type -f mmin -20
+ 1474  find . -type -f mmin -25
+ 1475  find . -type -f mmin -10
+ 1476  find . -type -f mmin -5
+ 1477  find . -type f -mmin+15
+ 1478  find . -type f -mmin +15
+ 1479  find . -type f -mmin -5
+ 1480  find . -type f -mmin -10
+ 1481  find . -type f -mmin -15
+ 1482  find . -type f -mmin -20
+ 1483  find . -type f -mmin +1
+ 1484  find . -type f -mmin +2
+ 1485  find . -type f -mmin +5
+ 1486  find . -type f -mmin +10
+ 1487  find . -type f -mmin +15
+ 1488  find . -type f -mmin +20
+ 1489  find . -type f -mmin +25
+ 1490  find . -type f -mmin +30
+ 1491  find . -type f -mmin +500
+ 1492  find . -type f -mmin +10000000000000000000
+ 1493  find . -type f -mmin -30 -mmin +50 
+ 1494  find . -type f -mmin -30 -mmin -500
+ 1495  find . -type f -mmin -500 -mmin +5
+ 1496  find . -type f -mmin +800 -mmin -500
+ 1497  find . -type f -mmin +500 
+ 1498  find . -type f -mmin +500 -mmin -300
+ 1499  find . -type f -mmin +500 -mmin -100
+ 1500  find man
+ 1501  man find
+ 1502  mkdir -p 1/2/3
+ 1503  touch 1/good.txt
+ 1504  touch 3/great.txt
+ 1505  touch 2/great.txt
+ 1506  touch 1/2/great.txt
+ 1507  touch 1/college.txt
+ 1508  vi college.txt
+ 1509  cat college.txt
+ 1510  vi good.txt
+ 1511  cd 1
+ 1512  vi good.txt
+ 1513  mv good.txt college.txt
+ 1514  vi fine.txt
+ 1515  mv college.txt fine.txt
+ 1516  ls fine.txt
+ 1517  cat fine.txt
+ 1518  mkdir 21
+ 1519  mv fine.txt 21
+ 1520  cat fine.txt
+ 1521  cat 21/fine.txt
+ 1522  mv 21 2
+ 1523  mkdir 22
+ 1524  mv 21 2
+ 1525  mv 2 22
+ 1526  mv 22 33
+ 1527  find . -type f
+ 1528  find . -type f -maxdepth 1
+ 1529  find . -type f -maxdepth 2
+ 1530  find . -type f -maxdepth 3
+ 1531  find . -type f -maxdepth 4
+ 1532  find . -type f -mindepth 1
+ 1533  find . -type f -mindepth 2
+ 1534  find . -type f -mindepth 3
+ 1535  find . -type f -mindepth 4
+ 1536  clear
+ 1537  whoami
+ 1538  ls -ltr
+ 1539  cd Desktop/linux_tutorial
+ 1540  pwd
+ 1541  ls
+ 1542  pwd
+ 1543  cd desktop/linux_tutorial
+ 1544  pwd
+ 1545  ls -lrt
+ 1546  find . -type f 
+ 1547  find . -type f -size +1mb
+ 1548  find . -type f -size +1
+ 1549  find . -type f -size -1
+ 1550  whoami
+ 1551  find . -type f -size +1k
+ 1552  find . -type f -size +1m
+ 1553  find . -type f -size +1M
+ 1554  find . -type f -size -1M
+ 1555  find . -size +1M
+ 1556  find . -size -1M
+ 1557  find . -size +1k
+ 1558  find . -prem 777
+ 1559  find . -type f -prem 777
+ 1560  finnd . -perm 777
+ 1561  find . -perm 777
+ 1562  find . -type f -perm 777
+ 1563  find . -type f -perm 757
+ 1564  find . -type f -perm 444
+ 1565  pwd
+ 1566  docker pull
+ 1567  docker build
+ 1568  docker run
+ 1569  python
+ 1570  python 3
+ 1571  python3
+ 1572  /Applications/Xcode.app/Contents/Developer/usr/bin/python3
+ 1573  python -u "/Users/purushottamkumar/Desktop/Python 100 days/test.py"
+ 1574  python3 --version
+ 1575  pip insall python
+ 1576  cd desktop
+ 1577  ls
+ 1578  cd Python 100 days 
+ 1579  cd Python 100 days
+ 1580  mv Python 100 days  python_100_h
+ 1581  ls
+ 1582  cd python_100h
+ 1583  ls
+ 1584  python test.py
+ 1585  python3 test.py
+ 1586  pip install pandas
+ 1587  pip3 install pandas
+ 1588  brew install pandas
+ 1589  python3 test.py
+ 1590  brew install --cask panda
+ 1591  python3 test.py
+ 1592  python3 -c "ïmport pandas as pd;print(pd.__version__)"
+ 1593  python -u "/Users/purushottamkumar/Desktop/python_100h/test.py"
+ 1594  python3 -u "/Users/purushottamkumar/Desktop/python_100h/test.py"
+ 1595  where python3
+ 1596  cd ..
+ 1597  cd 
+ 1598  cd /usr/local/bin/python3\n
+ 1599  pwd
+ 1600  cd usr/local/
+ 1601  cd /usr/local/
+ 1602  ls
+ 1603  cd bin
+ 1604  ls
+ 1605  cd
+ 1606  mkdir pythoncode
+ 1607  cd pythoncode
+ 1608  ls
+ 1609  python3 -m venv python
+ 1610  cd python
+ 1611  ls
+ 1612  source bin/activate
+ 1613  pip install pandas
+ 1614  cd ..
+ 1615  ls
+ 1616  rm -rf pythoncode
+ 1617  cd desktop
+ 1618  ls
+ 1619  python3 -m venv python
+ 1620  rm -rf python
+ 1621  mkdir python100h
+ 1622  cd python100h
+ 1623  python3 -m venv python_myenv
+ 1624  cd python100h
+ 1625  cd python_myenv
+ 1626  ls
+ 1627  source bin/activate
+ 1628  pip install pandas
+ 1629  cd ..
+ 1630  cd python_100h
+ 1631  ls
+ 1632  mv test.py /desktop/python100h
+ 1633  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/printEnvVariablesToFile.py /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/deactivate/zsh/envVars.txt
+ 1634  cd ..
+ 1635  cd python100h
+ 1636  cd python_myenv
+ 1637  ls
+ 1638  python3 my.py
+ 1639  cat my.py
+ 1640  vi my.py
+ 1641  cat my.py
+ 1642  python3 my.py
+ 1643  vi my.py
+ 1644  cat my.py
+ 1645  python3 my.py
+ 1646  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/my.py"
+ 1647  import sklearn
+ 1648  pip3 install scikit-learn
+ 1649  python3
+ 1650  python
+ 1651  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/print_script.py"
+ 1652  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/comment_escapesequence.py"
+ 1653  pyuthon print_script.py
+ 1654  python print_script.py
+ 1655  python comment_escapesequence.py
+ 1656  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/comment_escapesequence.py"
+ 1657  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/variable_datatype.py"
+ 1658  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/calculator.py"
+ 1659  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/input(typecast).py"
+ 1660  45
+ 1661  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/input(typecast).py"
+ 1662  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/myString.py"
+ 1663  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/input(typecast).py"
+ 1664  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/myString.py"
+ 1665  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/13 Str_methods.py"
+ 1666  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/14 myIfElse.py"
+ 1667  history
+ 1668  pwd
+ 1669  where python
+ 1670  where python3
+ 1671  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/14 myIfElse.py"
+ 1672  pwd
+ 1673  ls
+ 1674  vi myElif.py
+ 1675  ls
+ 1676  cat myElif.py
+ 1677  python myElif.py
+ 1678  python3 myElif.py
+ 1679  ls
+ 1680  vi myElif.py
+ 1681  python3 myElif.py
+ 1682  python myElif.py
+ 1683  vi text.py
+ 1684  cat text.py
+ 1685  vi text.py
+ 1686  python text.py
+ 1687  python3 text.py
+ 1688  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/1.1 rentCal.py"
+ 1689  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/DEV.python projects/1.1 rentCal.py"
+ 1690  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/DEV.python projects/1.2 monthlyExpense.py"
+ 1691  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.1 rentCalculation.py"
+ 1692  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.2 monthlyexpense.py"
+ 1693  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.3 mailalert.py"
+ 1694  pip install request
+ 1695  pip install --upgrade pip
+ 1696  pip install requests
+ 1697  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.3 mailalert.py"
+ 1698  pip install bs4
+ 1699  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.3 mailalert.py"
+ 1700  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.2 monthlyexpense.py"
+ 1701  pip install gspread
+ 1702  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.2 monthlyexpense.py"
+ 1703  pip install oauth2client
+ 1704  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.2 monthlyexpense.py"
+ 1705  cd /lib/python3.12/site-packages/oauth2client/service_account.py
+ 1706  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.1 rentCalculation.py"
+ 1707  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.2 monthlyexpense.py"
+ 1708  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/devPython/1.3 mailalert.py"
+ 1709  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100-h/13 Str_methods.py"
+ 1710  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myElif.py"
+ 1711  rm -rf myIfElse.py
+ 1712  ls
+ 1713  cd python100_h
+ 1714  ls
+ 1715  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myIfElif.py"
+ 1716  mv myIfElif.py myifElse.py
+ 1717  mv myifElse.py nestedIfElif.py
+ 1718  touch myIfElse.py
+ 1719  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myIfElse.py"
+ 1720  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/nestedIfElif.py"
+ 1721  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.1 nestedIfElif.py"
+ 1722  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15 IfelifElse.py"
+ 1723  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/text.py"
+ 1724  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1725  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/13 Str_methods.py"
+ 1726  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1727  \python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1728  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1729  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/clockhour.py"
+ 1730  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1731  ls
+ 1732  ls -lrt
+ 1733  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1734  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/clockhour.py"
+ 1735  7, 32, 45
+ 1736  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/clockhour.py"
+ 1737  09, 08, 22
+ 1738  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/clockhour.py"
+ 1739  /Users/purushottamkumar/Desktop/python100h/python_myenv/bin/python
+ 1740  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/clockhour.py"
+ 1741  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1742  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1743  0
+ 1744  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1745  touch matchCase.py
+ 1746  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/matchCase.py"
+ 1747  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/17. forLoop.py"
+ 1748  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1749  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/17. forLoop.py"
+ 1750  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1751  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/17. forLoop.py"
+ 1752  touch whileLoop.py
+ 1753  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1754  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/printEnvVariablesToFile.py /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/deactivate/zsh/envVars.txt
+ 1755  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1756  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1757  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1758  89python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1759  11python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1760  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1761  pwd
+ 1762  ls
+ 1763  cd /desktop/python100h
+ 1764  ls
+ 1765  cd Desktop
+ 1766  ls
+ 1767  cd python100h
+ 1768  ls
+ 1769  cd python_myenv/python100_h
+ 1770  ls
+ 1771  y
+ 1772  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1773  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1774  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/whileLoop.py"
+ 1775  touch continueBreakPass.py
+ 1776  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/continueBreakPass.py"
+ 1777  mv whileLoop.py 18 whileLoop.py
+ 1778  mv whileLoop.py 18,whileLoop.py
+ 1779  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/continueBreakPass.py"
+ 1780  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1781  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/continueBreakPass.py"
+ 1782  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1783  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/continueBreakPass.py"
+ 1784  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/20 function.py"
+ 1785  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1786  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/20 function.py"
+ 1787  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1788  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/20 function.py"
+ 1789  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1790  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/20 function.py"
+ 1791  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1792  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/20 function.py"
+ 1793  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1794  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/20 function.py"
+ 1795  touch func_operation.py
+ 1796  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/func_operation.py"
+ 1797  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1798  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/func_operation.py"
+ 1799  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1800  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/func_operation.py"
+ 1801  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1802  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/func_operation.py"
+ 1803  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1804  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/func_operation.py"
+ 1805  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/21 func_operation.py"
+ 1806  mv list.py myList.py
+ 1807  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myList.py"
+ 1808  TOUCH list_Method.py
+ 1809  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/list_Method.py"
+ 1810  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/23  list_Method.py"
+ 1811  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1812  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/23  list_Method.py"
+ 1813  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/24 tuples.py"
+ 1814  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1815  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/24 tuples.py"
+ 1816  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/25 manipulating_tuples.py"
+ 1817  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/printEnvVariablesToFile.py /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/deactivate/zsh/envVars.txt
+ 1818  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-1 clockhour.py"
+ 1819  cd desktop/python100h/python_myenv_python100_h
+ 1820  pwd
+ 1821  cd desktop/python100h/python_myenv_python100_h
+ 1822  ls
+ 1823  cd desktop/python100h/python_myenv_python100_h
+ 1824  cd desktop
+ 1825  cd python100h
+ 1826  cd python_myenv
+ 1827  cd python_100h
+ 1828  cd python100_h
+ 1829  pwd
+ 1830  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1831  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1832  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1833  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1834  aarav
+ 1835  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1836  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1837  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1838  aarav
+ 1839  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1840  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/15.2 nestedIfelif.py"
+ 1841  vi exrc-2 kbc.py
+ 1842  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1843  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc2kbcLoop.py"
+ 1844  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1845  git
+ 1846  git --version
+ 1847  pwd
+ 1848  ls -lrt
+ 1849  pwsh
+ 1850  /Users/purushottamkumar/desktop/python100h/python_myenv/python100_h\n
+ 1851  pwd
+ 1852  ls
+ 1853  touch myf"String.py
+ 1854  touch myf"String.py\n
+ 1855  touch myf\"String.py\n
+ 1856  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myf"String.py"\npython -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myf"String.py"
+ 1857  mv myf\"String.py myfString.py
+ 1858  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myf"String.py"\npython -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myf"String.py"
+ 1859  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/printEnvVariablesToFile.py /Users/purushottamkumar/.vscode/extensions/ms-python.python-2024.14.1-darwin-x64/python_files/deactivate/zsh/envVars.txt
+ 1860  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1861  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/17 forLoop.py"
+ 1862  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/text.py"
+ 1863  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1864  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myfString.py"
+ 1865  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1866  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myfString.py"
+ 1867  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1868  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myfString.py"
+ 1869  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1870  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myfString.py"
+ 1871  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1872  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myfString.py"
+ 1873  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/tempCodeRunnerFile.py"
+ 1874  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/myfString.py"
+ 1875  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc2kbcLoop.py"
+ 1876  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc-2 kbc.py"
+ 1877  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc2kbcLoop.py"
+ 1878  zpython -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc2kbcLoop.py"
+ 1879  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc2kbcLoop.py"
+ 1880  import this
+ 1881  python3
+ 1882  touch myDocString.py
+ 1883  mv myDocString.py 29 myDocString.py
+ 1884  78python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/29 myDocString.py"
+ 1885  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/29 myDocString.py"
+ 1886  brew install ansible
+ 1887  ansible --version
+ 1888  python -u "/Users/purushottamkumar/Desktop/python100h/python_myenv/python100_h/exrc2kbcLoop.py"
+ 1889  cd desktop
+ 1890  mkdir ansibleP
+ 1891  git clone https://github.com/rahulwagh/ansible-examples/tree/main\#
+ 1892  cd ansibleP
+ 1893  git clone https://github.com/rahulwagh/ansible-examples/tree/main\#
+ 1894  git clone https://github.com/rahulwagh/ansible-examples.git
+ 1895  ls
+ 1896  ls -ltr
+ 1897  cat ansible-examples
+ 1898  cd ansible-examples
+ 1899  ls
+ 1900  cat bash-script
+ 1901  cd bash-script 
+ 1902  ls
+ 1903  cat install-python-apache.sh\n
+ 1904  vi install-python-apache.sh\n
+ 1905  cat bash-script
+ 1906  ls
+ 1907  cat install-python-apache.sh\n
+ 1908  cd ..
+ 1909  code .
+ 1910  git push origin ansibleProject
+ 1911  cd ..
+ 1912  cd desktop
+ 1913  ls
+ 1914  where /IdeaProjects/ansible 
+ 1915  ls
+ 1916  cd ansible-examples main#\n
+ 1917  cd ansible-examples
+ 1918  ansible-playbook -hosts my-vars.yml
+ 1919  dotnet run --project "/Users/purushottamkumar/myWebApp/myWebApp.csproj"
+ 1920  ansible-playbook --inventory inventory/ansible-deployment-strategy/hosts ansible-deployment-strategy.yml
+ 1921  ls
+ 1922  cd part-12-ansible-deployment-strategy\n
+ 1923  ls
+ 1924  cd inventory
+ 1925  ls
+ 1926  cat ansible-deployment-strategy\n
+ 1927  cd ansible-deployment-strategy\n
+ 1928  ls
+ 1929  cat hosts
+ 1930  ssh -i /Users/rahulwagh/.ssh/aws_ec2_terraform ubuntu@ec2-3-76-33-80.eu-central-1.compute.amazonaws.com
+ 1931  cd ..
+ 1932  ansible-playbook --inventory inventory/ansible-deployment-strategy/hosts ansible-deployment-strategy.yml
+ 1933  cd ..
+ 1934  ls
+ 1935  cd part-10-ansible-imports-roles\n
+ 1936  ls
+ 1937  cat README.md
+ 1938  ansible-playbook --inventory inventory/ansible-import-roles-playbook/hosts ansible-import-roles-playbook.yml
+ 1939  ansible-playbook --inventory inventory/ansible-conditionals-playbook/hosts ansible-conditionals-playbook.yml
+ 1940  cd ..
+ 1941  ls
+ 1942  git remote add origin https://github.com/helloworld41299/ansibleProject.git
+ 1943  git status
+ 1944  git commit -m "bash-script/install-python-apache.sh modified"
+ 1945  git status
+ 1946  git add .
+ 1947  git status
+ 1948  git commit -m "bash-script/install-python-apache.sh modified"
+ 1949  git push origin main
+ 1950  ls
+ 1951  cd ..
+ 1952  ls
+ 1953  ansibleP
+ 1954  ls
+ 1955  git remote -v
+ 1956  git remote add origin https://github.com/helloworld41299/ansibleProject.git
+ 1957  git push origin main
+ 1958  cd ansible-examples main#\n
+ 1959  ls
+ 1960  cd ansible-examples main#
+ 1961  cd ansible-examples 
+ 1962  git remote -v
+ 1963  git remove remote origin
+ 1964  git remote remove origin
+ 1965  git remote -v
+ 1966  git remote add origin https://github.com/helloworld41299/ansibleProject.git
+ 1967  git remote -v
+ 1968  git push origin main
+ 1969  cd ..
+ 1970  mkdir demo_ansible
+ 1971  cd demo_ansible
+ 1972  cd ..
+ 1973  cp ansibleP demo_ansible
+ 1974  lds
+ 1975  ls
+ 1976  cp ansible-examples demo_ansible
+ 1977  cd ansible-examples
+ 1978  cp . ~/desktop/ansibleP/demo_ansible
+ 1979  ls
+ 1980  cp -r ansible-examples demo_ansible
+ 1981  cp -r . ~/desktop/ansibleP/demo_ansible
+ 1982  ls
+ 1983  cd ..
+ 1984  cd ansibleP
+ 1985  ls
+ 1986  cd ansible-examples
+ 1987  ls
+ 1988  cd ..
+ 1989  ls
+ 1990  cd demo_ansible
+ 1991  ls
+ 1992  git remote -v
+ 1993  cd ..
+ 1994  ls
+ 1995  cd ansible-examples
+ 1996  git remote -v
+ 1997  cd .. /demo_ansible
+ 1998  cd ..
+ 1999  cd demo_ansible
+ 2000  git remote add origin https://github.com/helloworld41299/demo-ansible.git
+ 2001  git remote remove origin
+ 2002  git remote add origin https://github.com/helloworld41299/demo-ansible.git
+ 2003  git push origin main
+ 2004  cd ..
+ 2005  ls
+ 2006  cd demo_ansible
+ 2007  ls
+ 2008  grep rahul --recursive
+ 2009  grep rahulwagh --recursive
+ 2010  grep rahulwagh --recursive >>a.txt
+ 2011  ls
+ 2012  cat a.txt\\n
+ 2013  grep rahulwagh --recursive tee b.txt
+ 2014  grep rahulwagh --recursive tee |touch b.txt
+ 2015  grep rahulwagh --recursive tee a.txt
+ 2016  ls
+ 2017  cat   a.txt
+ 2018  cd ..
+ 2019  ls
+ 2020  mkdir githubactionP
+ 2021  cd githubactionP
+ 2022  ls -a
+ 2023  git init
+ 2024  ls -a
+ 2025  mkdir .github/workflows/github-actions-demo.yml
+ 2026  ls
+ 2027  mkdir .github/workflows/github-actions-demo.yml
+ 2028  mkdir .github/workflows
+ 2029  mkdir .github
+ 2030  mkdir .github/workflows
+ 2031  ls -a
+ 2032  touch .github/workflows/github-actions-demo.yml
+ 2033  cd .github/workflows/github-actions-demo.yml
+ 2034  ls
+ 2035  ls -a
+ 2036  ls
+ 2037  cd .github
+ 2038  ls
+ 2039  cd /workflows/github-actions-demo.yml\n
+ 2040  cd workflows
+ 2041  ls
+ 2042  cd github-actions-demo.yml\n
+ 2043  cd github-actions-demo.yml
+ 2044  ls
+ 2045  cd github-actions-demo.yml
+ 2046  vi github-actions-demo.yml
+ 2047  cat github-actions-demo.yml
+ 2048  cat github-actions-demo.yml -o yaml
+ 2049  cd ..
+ 2050  pwd
+ 2051  cd ..
+ 2052  ls
+ 2053  cd githubactionP
+ 2054  git status
+ 2055  touch names.txt
+ 2056  ls -a
+ 2057  git add .
+ 2058  git status
+ 2059  git commit -m "added files"
+ 2060  git push origin main https://github.com/helloworld41299/github-action-demo.git
+ 2061  git remote -v
+ 2062  git remote add origin https://github.com/helloworld41299/github-action-demo.git
+ 2063  git remote -v
+ 2064  git status
+ 2065  git push origin main
+ 2066  git branch -m master main\n
+ 2067  git branch
+ 2068  git push -u origin main\n
+ 2069  git push origin --delete master\n
+ 2070  mv githubactionP demo
+ 2071  mkdir demo
+ 2072  mv githubactionP demo
+ 2073  ls
+ 2074  ls -a
+ 2075  cd ..
+ 2076  ls
+ 2077  cd kkd_projects
+ 2078  ls
+ 2079  cd ..
+ 2080  ls
+ 2081  cd githubactionP
+ 2082  ls 
+ 2083  ls -a
+ 2084  mv demo githubactionP
+ 2085  ls 
+ 2086  ls -a
+ 2087  cd ..
+ 2088  ls
+ 2089  cd githubactionP
+ 2090  mv githubactionP demo
+ 2091  ls
+ 2092  mv demo githubactionP
+ 2093  ls
+ 2094  cd ..
+ 2095  mv githubactionP demo
+ 2096  ls
+ 2097  cd demo
+ 2098  ls -a
+ 2099  rm -rf githubactionP
+ 2100  ls -a
+ 2101  cd ..
+ 2102  mkdir githubactionP
+ 2103  ls
+ 2104  cp demo githubactionP
+ 2105  cp -r demo githubactionP
+ 2106  ls
+ 2107  cd githubactionP
+ 2108  ls -a
+ 2109  cd demo
+ 2110  ls -a
+ 2111  cd ..
+ 2112  ls -a
+ 2113  cd demo
+ 2114  ls -a
+ 2115  rm -rf githubactionP
+ 2116  ls -a
+ 2117  cd ..
+ 2118  ls
+ 2119  rm -rf githubactionP
+ 2120  ls -a
+ 2121  cd demo
+ 2122  ls -a
+ 2123  mkdir githubactionP
+ 2124  cd githubactionP
+ 2125  ls -a
+ 2126  cd ..
+ 2127  cd openshift
+ 2128  ls -a
+ 2129  cd ..
+ 2130  ls -a
+ 2131  ls-a
+ 2132  ls -a
+ 2133  cd demo
+ 2134  ls -a
+ 2135  rm -rf githubactionP
+ 2136  ls -a
+ 2137  cd ..
+ 2138  mkdir githubactionP
+ 2139  ls -a
+ 2140  cd githubactionP
+ 2141  ls -a
+ 2142  mv demo githubactionP
+ 2143  cp -r demp githubactionP
+ 2144  top
+ 2145  ls -a
+ 2146  cd ..
+ 2147  ls -a
+ 2148  mv demo githubactionP 
+ 2149  history
+ 2150  ls
+ 2151  pwd
+ 2152  cd Desktop
+ 2153  mkdir tipCalculator
+ 2154  cd tipCalculator
+ 2155  git clonr https://github.com/aanchal123-dv/calculator.git
+ 2156  git clone https://github.com/aanchal123-dv/calculator.git
+ 2157  ls
+ 2158  cd calculator
+ 2159  ls
+ 2160  ls -a
+ 2161  ..
+ 2162  mkdir calender
+ 2163  cd calender
+ 2164  ls -a
+ 2165  vi main.py
+ 2166  cat main.py
+ 2167  pwd
+ 2168  vi holiday_config.json
+ 2169  cat holiday_config.json
+ 2170  vi utils.py
+ 2171  ls -a
+ 2172  cat main.py
+ 2173  vi rich_cli.py
+ 2174  vi gui_app.py
+ 2175  vi event_manager.py
+ 2176  rm -rf event_manager.py
+ 2177  find . -type -f event_manager.py
+ 2178  ls
+ 2179  vi event_manager.py
+ 2180  ls -a
+ 2181  pip install reportlab rich\n
+ 2182  cd ..
+ 2183  cd python100h
+ 2184  ls
+ 2185  cd python_myenv
+ 2186  ls
+ 2187  cd calender
+ 2188  ls -a
+ 2189  pip install reportlab rich\n
+ 2190  pip
+ 2191  cd ..
+ 2192  pip
+ 2193  cd ..
+ 2194  pip
+ 2195  pip install reportlab rich\n
+ 2196  cd python_myenv
+ 2197  pip install reportlab rich\n
+ 2198  cd ..
+ 2199  mkdir food_delivery_website
+ 2200  cd food_delivery_website
+ 2201  ls -a
+ 2202  git clone https://github.com/aanchal123-dv/Food-Delivery-Website.git
+ 2203  ls -a
+ 2204  cd Food-Delivery-Website
+ 2205  ls -a
+ 2206  git remotr -v
+ 2207  git remote -v
+ 2208  git remote add origin https://github.com/helloworld41299/foodZy--A-food-delivery-website.git
+ 2209  git remote remove origin
+ 2210  git remote -v
+ 2211  git remote add origin https://github.com/helloworld41299/foodZy--A-food-delivery-website.git
+ 2212  git remote -v
+ 2213  git push origin master
+ 2214  vi git-largefile-remedy.sh
+ 2215  ./git-largefile-remedy.sh
+ 2216  sudo ./git-largefile-remedy.sh
+ 2217  chmod u+x git-largefile-remedy.sh
+ 2218  ./ git-largefile-remedy.sh
+ 2219  sudo git-largefile-remedy.sh
+ 2220  sudo ./ git-largefile-remedy.sh
+ 2221  brew install git-lfs
+ 2222  git lfs install
+ 2223  git lfs track "*.jpg"
+ 2224  git add .gitattributes
+ 2225  git add images/7ngtree-2.jpg
+ 2226  ls -lh images/
+ 2227  git add 7ngtree-2.jpg
+ 2228  git add —Pngtree—2.jpg
+ 2229  mv —Pngtree—2.jpg 7ngtree-2.jpg
+ 2230  ls -lh images/
+ 2231  git add 7ngtree-2.jpg
+ 2232  ls -b | grep ngtree
+ 2233  mv *ngtree-2.jpg 7ngtree-2.jpg
+ 2234  find . -name '*ngtree-2.jpg' -exec mv {} 7ngtree-2.jpg \;
+ 2235  git lfs track "7ngtree-2.jpg"\ngit add .gitattributes 7ngtree-2.jpg\ngit commit -m "Track 7ngtree-2.jpg with Git LFS"\ngit push origin master
+ 2236  ls -lh images/
+ 2237  git checkout master
+ 2238  git branch -m master main
+ 2239  git push -u origin main
+ 2240  git pull origin main
+ 2241  git add .
+ 2242  git commit -m "new changes"
+ 2243  git pull origin main
+ 2244  git merge --no-ff
+ 2245  git merge origin/main
+ 2246  git pull origin main --allow-unrelated-histories
+ 2247  ls
+ 2248  cd vadmin
+ 2249  pwd
+ 2250  cd Desktop
+ 2251  git checkout master
+ 2252  git branch -m master main
+ 2253  git remote -v
+ 2254  git push -u origin main
+ 2255  git push origin --delete master
+ 2256  git fetch --all --prune
+ 2257  git checkout main
+ 2258  git branch -m master main
+ 2259  git branch -u origin/main main
+ 2260  git remote -v
+ 2261  ls
+ 2262  mkdir foodzy
+ 2263  cd foodzy
+ 2264  git remote -0v
+ 2265  git remote -v
+ 2266  ls -a
+ 2267  git clone https://github.com/aanchal123-dv/Food-Delivery-Website.git
+ 2268  df -dh
+ 2269  df -u
+ 2270  df -dh
+ 2271  df -h
+ 2272  du -sh  ~/Desktop/foodzy
+ 2273  du -sh ~/Desktop/foodzy
+ 2274  ls -a
+ 2275  cd Food-Delivery-Website
+ 2276  ls -a
+ 2277  du -sh ~/De/f/Food-Delivery-Website
+ 2278  du - sh ~/De/f/Food-Delivery-Website 
+ 2279  du - sh /~/De/f/Food-Delivery-Website 
+ 2280  vi index.php
+ 2281  vi store.js
+ 2282  git add.
+ 2283  git add .
+ 2284  git commit -m "fst change.. comment added in store.js"
+ 2285  git add origin https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2286  git remote -v
+ 2287  git remove remote origin
+ 2288  git remote removr origin
+ 2289  git remote remove origin
+ 2290  git remote -v
+ 2291  git remote add origin https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2292  git remote -v
+ 2293  git push origin main
+ 2294  git checkout master
+ 2295  git branch -m master main
+ 2296  git push -u origin main
+ 2297  cd Desktop
+ 2298  cd foodzy
+ 2299  ls -a
+ 2300  cd Food-Delivery-Website-master
+ 2301  ls -a
+ 2302  git remote -v
+ 2303  git checkout main
+ 2304  git push origin main
+ 2305  git remote add origin https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2306  git push remote origin https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2307  git remote -v
+ 2308  git remote rmove origin
+ 2309  git remote remove origin
+ 2310  git remote -v
+ 2311  git remote add https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2312  git remote add origin https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2313  git remote -v
+ 2314  git push origin main
+ 2315  git pull origin main
+ 2316  gitv status
+ 2317  git status
+ 2318  ls 
+ 2319  git remote -v
+ 2320  git pull origin main
+ 2321  ls -a
+ 2322  git pull origin main
+ 2323  git remote -v
+ 2324  git pull origin main
+ 2325  git checkout main
+ 2326  git pull origin main --no-ff
+ 2327  git pull --no-ff
+ 2328  git branch -vv
+ 2329  cd Desktop
+ 2330  cd foodzy
+ 2331  ls
+ 2332  ls -a
+ 2333  cd Food-Delivery-Website-master
+ 2334  ls -a
+ 2335  git remote -v
+ 2336  git checkout main
+ 2337  git push origin master
+ 2338  git push origin main
+ 2339  cd Desktop
+ 2340  cd foodzy
+ 2341  ls 
+ 2342  cd Food-Delivery-Website-master\n
+ 2343  ls -a
+ 2344  git init
+ 2345  ls -a
+ 2346  git remote -v
+ 2347  git remote add origin https://github.com/helloworld41299/foodZy--food-delivery-website.git
+ 2348  git remote -v
+ 2349  git push origin main
+ 2350  git pull origin main
+ 2351  git push origin main
+ 2352  git branch
+ 2353  cd Desktop
+ 2354  cd foodzy
+ 2355  cd ..
+ 2356  cd foodzy
+ 2357  ls -a
+ 2358  cd Food-Delivery-Website-master
+ 2359  git remote -v
+ 2360  git pull origin master 
+ 2361  git pull origin main
+ 2362  git push origin master
+ 2363  git status
+ 2364  git add .
+ 2365  git status
+ 2366  git commit -m "Added local repo to remote github"
+ 2367  git pull origin master
+ 2368  git status
+ 2369  git push origin master
+ 2370  cd ..
+ 2371  mkdir Number-Guessing-game
+ 2372  cd Number-Guessing-game
+ 2373  git clone https://github.com/helloworld41299/Number-Guessing-Game.git
+ 2374  git remote -v
+ 2375  ls -a
+ 2376  git remote -v
+ 2377  git remote add origin https://github.com/helloworld41299/Number-Guessing-game.git
+ 2378  git remote remove origin 
+ 2379  git remote -v
+ 2380  git remote add origin https://github.com/helloworld41299/Number-Guessing-game.git
+ 2381  git remote -v
+ 2382  git add .
+ 2383  git status
+ 2384  ls -a
+ 2385  git add .
+ 2386  git status
+ 2387  git push origin main
+ 2388  git pull origin main
+ 2389  ls -a
+ 2390  vi manage.py
+ 2391  git add .
+ 2392  git status
+ 2393  git commit -m "change1 modified manage.py"
+ 2394  git pull origin main
+ 2395  cat README.md
+ 2396  git pull origin main
+ 2397  git push origin main
+ 2398  git merge --no-ff
+ 2399  git checkout main
+ 2400  git branch
+ 2401  cd Desktop
+ 2402  cd Number-Guessing-game
+ 2403  ls
+ 2404  Number-Guessing-Game
+ 2405  ls -a
+ 2406  git remote -v
+ 2407  git add .
+ 2408  git status
+ 2409  vi README.md
+ 2410  git status
+ 2411  git commit -m "modified README.md"
+ 2412  git status
+ 2413  git add .
+ 2414  git status
+ 2415  branch
+ 2416  git checkout main
+ 2417  git push origin main
+ 2418  git pull origin main
+ 2419  git status
+ 2420  git commit -m "README.md modified"
+ 2421  git status
+ 2422  git pull origin main
+ 2423  git merge --no-ff
+ 2424  git checkout main
+ 2425  git rebase
+ 2426  git pull --rebase
+ 2427  git pull --no-ff
+ 2428  git add .
+ 2429  git status
+ 2430  git pull origin main
+ 2431  cd /desktop
+ 2432  cd Desktop
+ 2433  cd Number-Guessing-game
+ 2434  ls-a
+ 2435  ls -a
+ 2436  cd Number-Guessing-Game-main
+ 2437  ls -a
+ 2438  git init
+ 2439  ls -a
+ 2440  git remote -v
+ 2441  git remote add origin https://github.com/helloworld41299/Number-Guessing-game.git
+ 2442  git remote -v
+ 2443  git status
+ 2444  git add .
+ 2445  git status
+ 2446  git commit -m "Hosting local repo to remote-github repo"
+ 2447  git pull origin main
+ 2448  git remote -v
+ 2449  git push origin main
+ 2450  git branch -vv
+ 2451  git pull --rebase
+ 2452  git add .
+ 2453  git rebase --continue
+ 2454  git checkout main
+ 2455  git branch
+ 2456  git branch -vv
+ 2457  git checkout main
+ 2458  git pull
+ 2459  git branch -d master
+ 2460  git branch -D master
+ 2461  git status
+ 2462  git add .
+ 2463  git status
+ 2464  ls -a
+ 2465  rm README.md
+ 2466  ls -a
+ 2467  cd Desktop
+ 2468  cd Number-Guessing-game
+ 2469  ls -a
+ 2470  git status
+ 2471  git remote -v
+ 2472  git branch
+ 2473  git remote -vv
+ 2474  git checkout main
+ 2475  git branch
+ 2476  git init
+ 2477  ls -a
+ 2478  cd Number-Guessing-Game-main
+ 2479  ls -a
+ 2480  cd ..
+ 2481  git branch
+ 2482  cd Number-Guessing-Game-main
+ 2483  git branch
+ 2484  git remote -vv
+ 2485  cd ..
+ 2486  git remote -v
+ 2487  git remote -vv
+ 2488  rm Number-Guessing-Game-main
+ 2489  rm -r  Number-Guessing-Game-main
+ 2490  ls -a
+ 2491  rm -R Number-Guessing-Game-main
+ 2492  rm -rf Number-Guessing-Game-main
+ 2493  ls -a
+ 2494  git remote -v
+ 2495  git remote -vv
+ 2496  git remote add origin https://github.com/helloworld41299/Number-Guessing-game.git
+ 2497  git remote -vv
+ 2498  git pull origin main
+ 2499  git status
+ 2500  git add .
+ 2501  git status
+ 2502  git commit -m "adding local repo to github"
+ 2503  git status
+ 2504  git push origin main
+ 2505  git checkout main
+ 2506  branch
+ 2507  git branch
+ 2508  git add .
+ 2509  git status
+ 2510  ls -a
+ 2511  cd ..
+ 2512  cd Desktop
+ 2513  cd Number-Guessing-Game-main
+ 2514  ls -a
+ 2515  git init
+ 2516  ls -a
+ 2517  git checkout main
+ 2518  git branch
+ 2519  git checkout main
+ 2520  git checkout master
+ 2521  pwd
+ 2522  cd Desktop
+ 2523  cd Number-Guessing-Game
+ 2524  git branch
+ 2525  git checkout main
+ 2526  git checkout master
+ 2527  git branch -m master main
+ 2528  git checkout main
+ 2529  ls -a
+ 2530  git remote -v
+ 2531  git remote add origin https://github.com/helloworld41299/Number-Guessing-game.git
+ 2532  git remote -v
+ 2533  git remote -vv
+ 2534  git branch
+ 2535  git pull origin main
+ 2536  git status
+ 2537  git add .
+ 2538  git status
+ 2539  git push origin master
+ 2540  cd ..
+ 2541  cd foodzy
+ 2542  cd ../Downloads
+ 2543  cd ../Mydocs
+ 2544  ls
+ 2545  cd ..
+ 2546  cd foodzy
+ 2547  cd ../Mydocs/certificate
+ 2548  cd ..
+ 2549  ls -R
+ 2550  cat>1.txt
+ 2551  cat 1.txt
+ 2552  cat > two.txt
+ 2553  cat 1.txt 2.txt
+ 2554  cat 1.txt two.txt
+ 2555  cat two.txt
+ 2556  cat > two.txt
+ 2557  cat 1.txt two.txt
+ 2558  cat 1.txt two.txt > 3.txt
+ 2559  cat 3.txt
+ 2560  cat 4.txt
+ 2561  cat >4.txt
+ 2562  cat >5.txt
+ 2563  cat 4.txt 5.txt > 6.txt
+ 2564  rm 4.txt 5.txt 6.txt
+ 2565  cat 4.txt
+ 2566  cat > file.txt
+ 2567  cat file.txt| tr a-z A-Z | tr ' ' '\n' > result.txt
+ 2568  cat result.txt  
+ 2569  cat file.txt
+ 2570  cat > file.txt
+ 2571  cat file.txt
+ 2572  cat file.txt | tr a-z A-Z | tr ' ' '\n' > upper.txt
+ 2573  cat upper.txt
+ 2574  cat file.txt
+ 2575  cat file.txt | tr a-z A-Z | tr '  ' '\n' > new.txt
+ 2576  cat new.txt
+ 2577  cat file.txt | tr a-z A-Z | tr '      ' '\n' > new.txt
+ 2578  cat new.txt
+ 2579  cat file.txt | tr a-z A-Z | tr '      ' '\n' > lew.txt
+ 2580  cat lew.txt
+ 2581  cat file.txt | tr a-z A-Z | tr '      ' '  \n' > lew.txt
+ 2582  cat lew.txt
+ 2583  cat file.txt | tr a-z A-Z | tr '      ' '  \n' > kwr.txt
+ 2584  cat kwr.txt
+ 2585  mkdir first
+ 2586  mkdir first/last
+ 2587  mkdir first/middle/last
+ 2588  mkdir -p first/middle/last
+ 2589  cd ../tipCalculator/calculator
+ 2590  ls -a
+ 2591  git remote -v
+ 2592  git remote remove origin 
+ 2593  git remote add origin https://github.com/helloworld41299/tip-calculator.git
+ 2594  git remote -v
+ 2595  ls -a 
+ 2596  vi alert.js
+ 2597  git status
+ 2598  git add .
+ 2599  git status
+ 2600  git commit -m "modified alert.js"
+ 2601  git status
+ 2602  git pull origin master
+ 2603  git remote show origin
+ 2604  git pull origin main
+ 2605  git branch -m master main
+ 2606  git fetch origin
+ 2607  git branch --set-upstream-to=origin/main main
+ 2608  git merge origin main
+ 2609  git merge origin/main
+ 2610  git merge origin/main --allow-unrelated-histories
+ 2611  git push origin main
+ 2612  cd ..
+ 2613  cd Number-Guessing-Game
+ 2614  git remote -v
+ 2615  git remote show origin
+ 2616  git pull origin main
+ 2617  git branch -m master main
+ 2618  git fetch origin
+ 2619  git branch --set-upstream-to=origin/main main
+ 2620  git status
+ 2621  git add .
+ 2622  git status
+ 2623  git commit -m "added local repo to github"
+ 2624  git pull origin main
+ 2625  git merge origin/main
+ 2626  git merge origin/main --allow-unrelated-histories
+ 2627  git push -u origin main
+ 2628  vi README.md
+ 2629  cat README.md
+ 2630  git pull --rebase origin main
+ 2631  vi README.md
+ 2632  pwd
+ 2633  cd Desktop/mydocs
+ 2634  touch test/houses.txt
+ 2635  ls
+ 2636  touch wallpaper 2/houses.txt
+ 2637  touch wallpapers 2/houses.txt
+ 2638  touch first/house.txt
+ 2639  ls -R
+ 2640  cat > names.txt
+ 2641  cp names.txt naming.txt
+ 2642  cat naming.txt names.txt
+ 2643  cat naming.txt | tr a-z A-z | tr ',' ' ' > upper1.txt
+ 2644  cat upper1.txt
+ 2645  man mv
+ 2646  man cp
+ 2647  man mv
+ 2648  ls
+ 2649  \cat two.txt
+ 2650  mv two.txt first
+ 2651  ls
+ 2652  cd first
+ 2653  ls
+ 2654  mv two.txt new.txt
+ 2655  ls
+ 2656  cat new.txt
+ 2657  touch empty.txt
+ 2658  cat empty.txt
+ 2659  mv new.txt empty.txt
+ 2660  ls
+ 2661  cat empty.txt
+ 2662  cat house.txt
+ 2663  echo i am purushottam
+ 2664  echo my new house Mabaarakshita > house.txt
+ 2665  echo house.txt
+ 2666  cat house.txt
+ 2667  echo helloji > hello.txt
+ 2668  cat hello.txt
+ 2669  mv house.txt hello.txt
+ 2670  cat hello.txt
+ 2671  mv hello.txt my_house.txt
+ 2672  cat my_house.txt
+ 2673  echo my new house Mabaarakshita > my_house.txt
+ 2674  cat my_house.txt
+ 2675  echo my new house is Mabaarakshita > my_house.txt
+ 2676  cat my_house.txt
+ 2677  ls
+ 2678  cat empty.txt
+ 2679  mv empty.txt ../newEmpty.txt
+ 2680  ls
+ 2681  cd ..
+ 2682  ls
+ 2683  cat newEmpty.txt
+ 2684  ls
+ 2685  cd first
+ 2686  ls
+ 2687  vi ty.txt
+ 2688  cat ty.txt
+ 2689  mv ty.txt ../newEmpty.txt
+ 2690  ls
+ 2691  cd ..
+ 2692  cat newEmpty.txt
+ 2693  cd first
+ 2694  mv last sub last
+ 2695  mv last sublast
+ 2696  ls
+ 2697  ls -r
+ 2698  ls -R
+ 2699  mv middle sublast
+ 2700  ls
+ 2701  ls -R
+ 2702  mv sublast/middle .
+ 2703  ls -R
+ 2704  rm -r sublast
+ 2705  ls
+ 2706  ls -R
+ 2707  sudo echo hello wo
+ 2708  history
+
+linux_demo.txt
+total_linuxCommandRun
